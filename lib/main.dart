@@ -1,6 +1,8 @@
 import 'package:auth_task/view/login_screen/login_screen.dart';
 import 'package:flutter/material.dart';
 
+String? SavedEmail;
+String? SavedPassword;
 void main(List<String> args) {
   runApp(MyApp());
 }
